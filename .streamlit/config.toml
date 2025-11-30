@@ -1,4 +1,5 @@
 [theme]
+favicon = "favicon.png"
 base = "dark"
 
 # General color setup
